@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ngotiendung/static/css/main.811bd68b.css",
+    "main.js": "/ngotiendung/static/js/main.ed0885f4.js",
+    "static/js/453.c4c67967.chunk.js": "/ngotiendung/static/js/453.c4c67967.chunk.js",
+    "static/media/logo.svg": "/ngotiendung/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ngotiendung/index.html",
+    "main.811bd68b.css.map": "/ngotiendung/static/css/main.811bd68b.css.map",
+    "main.ed0885f4.js.map": "/ngotiendung/static/js/main.ed0885f4.js.map",
+    "453.c4c67967.chunk.js.map": "/ngotiendung/static/js/453.c4c67967.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.811bd68b.css",
+    "static/js/main.ed0885f4.js"
+  ]
+}
